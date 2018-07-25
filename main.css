@@ -1,0 +1,29 @@
+.generalProfile-flex {
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+
+
+.generalProfile img {
+    object-fit: cover;
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+}
+
+
+/* .content-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+.insert-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
